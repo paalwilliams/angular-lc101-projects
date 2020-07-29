@@ -1,0 +1,14 @@
+* {
+  font-family: "Times New Roman";
+  font-size: 1.3rem;
+}
+
+div.chores {
+  color: green;
+}
+div.chores h3 {
+  text-decoration: underline;
+}
+div.chores ul li {
+  font-style: italic;
+}
